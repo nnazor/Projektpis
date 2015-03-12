@@ -10,6 +10,7 @@ namespace projekt2
         static void Main(string[] args)
         {
             Console.WriteLine("hello!!");
+             Console.WriteLine("promjena na github-u!!");
             Console.Read();
         }
     }
